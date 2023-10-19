@@ -1,13 +1,3 @@
-/*
-
-Cette classe correspond a une Base de Donnees (BDD) pour les maneges et les parcs.
-Celle-ci implemente l'interface Signature, les methodes de cette derniere sont implementees. 
-La classe contient deux maps.
-La premiere map (parcs) associe le nom d.un parc a la liste de maneges qui lui sont associes.
-La deuxieme map associe un manege a un TreeSet de parcs qui contient ce manege.
-
- */
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
