@@ -1,11 +1,3 @@
-/*
-
-Cette classe a trois attributs : le nom, la hauteur et la vitesse d'un manege.
-On implemente l'interface Comparable et on utilise les methodes HashCode et Equals.
-Pour ceci, nous pouvons comparer les maneges, ainsi que creer du HashCode unique.
-
- */
-
 import java.util.*;
 
 class Manege implements Comparable<Manege> {
